@@ -18,6 +18,8 @@ Open Insomnia and go to localhost:3000 to run locally
 
 # Deployed Link
 
+https://jaate.herokuapp.com/
+
 # License
 
 MIT License
